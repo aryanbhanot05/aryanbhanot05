@@ -23,7 +23,6 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 
 ## 🛠️ Tech Stack
 
-### Databases & Cloud:
 ## 🛠️ Tech Stack
 
 ---
