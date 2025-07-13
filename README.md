@@ -1,5 +1,4 @@
-<h2 align="center">Hi there 👋</h2>
-<h1 align="center">I'm Aryan Bhanot</h1>
+<h1 align="center">Hi there! I'm Aryan Bhanot 👋</h1>
 <h3 align="center">🚀 Developer driven by innovation, simplicity, and real-world impact — always curious, always creating.</h3>
 
 ![Cover Image](cover.jpg)
