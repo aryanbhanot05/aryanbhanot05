@@ -1,4 +1,6 @@
-# Hi there! I'm Aryan Bhanot 👋
+<h2 align="center">Hi there 👋</h2>
+<h1 align="center">I'm Aryan Bhanot</h1>
+<h3 align="center">🚀 Developer driven by innovation, simplicity, and real-world impact — always curious, always creating.</h3>
 
 ![Cover Image](cover.jpg)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-Aryan%20Bhanot-%230A66C2?style=for-the-badge&logo=linkedin) ](https://www.linkedin.com/in/aryan-bhanot-609650245)    
@@ -68,9 +70,7 @@ I also run **SOND 3D**, a startup offering 3D printing, design, and consulting s
 
 > “Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.” – Steve Jobs
 
-<h2 align="center">Hi there 👋</h2>
-<h1 align="center" padding-top="110px" >I'm Aryan Bhanot</h1>
-<h3 align="center">A passionate Software Development student at SAIT, building real-world solutions through code and design.</h3>
+
 
 ---
 
