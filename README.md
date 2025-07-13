@@ -82,3 +82,14 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 🌱 Currently seeking: Part-time or freelance roles in front-end, API development, or QA
 
 ---
+
+
+<!-- 
+🔖 References & Attributions:
+
+- Devicon Icons sourced from: https://github.com/devicons/devicon
+- Technology logos via CDN: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/
+- Badge styles by Shields.io: https://shields.io
+- Cover image, project screenshots, and other visuals are either created by me or used with proper permission.
+- All product names, logos, and brands are property of their respective owners. Use here is for identification and educational purposes only.
+-->
