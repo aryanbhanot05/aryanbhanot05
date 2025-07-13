@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Developer driven by innovation, simplicity, and real-world impact — always curious, always creating.</h3>
 
 ![Cover Image](cover.jpg)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-Aryan%20Bhanot-%230A66C2?style=for-the-badge&logo=linkedin) ](https://www.linkedin.com/in/aryan-bhanot-609650245)    
+[![Static Badge](https://img.shields.io/badge/LinkedIn-Aryan%20Bhanot-%230A66C2?style=for-the-badge&logo=linkedin) ](https://www.linkedin.com/in/aryan-bhanot-609650245)
 [![Static Badge](https://img.shields.io/badge/Email-aryanbhanot2005@gmail.com-%23D14836?style=for-the-badge&logo=gmail)](mailto:aryanbhanot2005@gmail.com)
 
 ---
