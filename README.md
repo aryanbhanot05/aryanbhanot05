@@ -21,7 +21,10 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
+
+**Languages & Tools:**  
+![My Skills](https://skillicons.dev/icons?i=react,ts,js,py,cs,html,css,tailwind,nodejs,mysql,github,vscode)
 <!--
 ### Languages:
 ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
@@ -62,14 +65,6 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 - 🚦 Building a **Real-Time Road Condition Dashboard** for travellers using the 511 Alberta API  
 - 💻 Redesigning the official website for the **FEC - Collective Energy Foundation**  
 - 📱 Creating Music Player App using **React Native** and **Expo Router**
-
----
-
-
-## 🛠️ Tech Stack
-
-**Languages & Tools:**  
-![My Skills](https://skillicons.dev/icons?i=react,ts,js,py,cs,html,css,tailwind,nodejs,mysql,github,vscode)
 
 ---
 
