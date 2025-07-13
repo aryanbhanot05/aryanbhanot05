@@ -13,8 +13,9 @@ I’m a **Software Development** student at **Southern Alberta Institute of Tech
 
 I also a part of **SOND 3D**, a startup offering 3D printing, design, and consulting services in Calgary — where tech meets creativity.
 
-- 🧠 Currently learning: **React**, **TypeScript**, **Node.js**, **Next.js**, and **cloud deployment**
-- 🧑‍🔧 Manager of Operations @ **SOND 3D**  
+- 🧠 Currently learning: **React**, **TypeScript**, **Node.js**, **Next.js**, **Expo / Expo Router**, **Supabase** and **Cloud Deployment**
+- 🧑‍🔧 Manager of Operations @ **SOND 3D**
+- 🖥️ Web Developer @ **FEC - Collective Energy Foundation** (a venture of **TTG - Tartigrade Ltd.**)  
 - 💡 Building tools using public APIs and automation 
 - 🤝 I’m open to collaborating on open-source or freelance tech projects 
 
@@ -52,9 +53,9 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 
 ## 🗺️Active & Future Project Initiatives
 
-- 🚦 Building a **Calgary Traffic Image Dashboard** using the 511 Alberta API  
-- 💻 Designing a **UX-focused restaurant suggestion app**  
-- 📱 Creating mobile apps using **React Native** and **Expo Router**
+- 🚦 Building a **Real-Time Road Condition Dashboard** for travellers using the 511 Alberta API  
+- 💻 Redesigning the official website for the **FEC - Collective Energy Foundation**  
+- 📱 Creating Music Player App using **React Native** and **Expo Router**
 
 ---
 
