@@ -67,14 +67,6 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 ---
 
 
-## 📊 GitHub Stats
-
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanbhanot&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhanot&layout=compact&theme=tokyonight)
-
----
-
-
 ## 📫 Connect With Me
 
 📧 Email: [aryanbhanot2005@gmail.com](mailto:aryanbhanot2005@gmail.com)  
