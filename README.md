@@ -23,10 +23,6 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
----
-
 ### 💻 Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50px alt="Python" title="Python"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50px alt="JavaScript" title="JavaScript"/> 
@@ -43,8 +39,6 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=50px alt="React" title="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=50px alt="Node.js" title="Node.js"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=50px alt="Bootstrap" title="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width=50px alt="FastAPI" title="FastAPI"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width=50px alt=".NET" title=".NET"/>
 <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width=50px alt=".NET MAUI" title=".NET MAUI"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=50px alt="Tailwind CSS" title="Tailwind CSS"/>
 
@@ -52,10 +46,7 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 
 ### ☁️ DevOps & Cloud
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width=50px alt="Firebase" title="Firebase"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=50px alt="Docker" title="Docker"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width=50px alt="NGINX" title="NGINX"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width=50px alt="Anaconda" title="Anaconda"/>
-<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width=50px alt="Supabase" title="Supabase"/>
+<img src="https://raw.githubusercontent.com/supabase/supabase/master/apps/www/public/img/supabase-logo-icon.png" width="50px" alt="Supabase" title="Supabase"/>
 
 ---
 
@@ -76,6 +67,7 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 
 ### 🖥️ Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=50px alt="VS Code" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=50px alt="Git" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=50px alt="GitHub" title="GitHub"/>
 
 ---
