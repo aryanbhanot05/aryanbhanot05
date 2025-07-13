@@ -46,7 +46,7 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 
 ### ☁️ DevOps & Cloud
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width=50px alt="Firebase" title="Firebase"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-plain.svg" width="50px" alt="Supabase" title="Supabase"/>
+<img src="https://raw.githubusercontent.com/supabase/supabase/master/apps/www/public/img/supabase-logo-icon.png" width="50px" alt="Supabase" title="Supabase"/>
 
 ---
 
