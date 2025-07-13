@@ -45,35 +45,18 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 -->
 ---
 
-## 🧠 What I'm Working On
+## 📌 Projects
+
+---
+
+
+## 🗺️Active & Future Project Initiatives
 
 - 🚦 Building a **Calgary Traffic Image Dashboard** using the 511 Alberta API  
 - 💻 Designing a **UX-focused restaurant suggestion app**  
 - 📱 Creating mobile apps using **React Native** and **Expo Router**
 
 ---
-
-## 📊 GitHub Stats
-
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanbhanot&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhanot&layout=compact&theme=tokyonight)
-
----
-
-## 📫 How to Reach Me
-
-📧 Email: [aryanbhanot2005@gmail.com](mailto:aryanbhanot2005@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/aryan-bhanot-609650245](https://www.linkedin.com/in/aryan-bhanot-609650245)  
-🌱 Currently seeking: Part-time or freelance roles in front-end, API development, or QA
-
----
-
-> “Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.” – Steve Jobs
-
-
-
----
-
 
 
 ## 🛠️ Tech Stack
@@ -83,13 +66,6 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 
 ---
 
-## 📌 Projects
-
-- 🔧 **[DLC Website Redesign Proposal](#)** – UX/UI overhaul for a non-profit organization  
-- 🌐 **[React Food Suggestion App](#)** – Suggests meals using external APIs  
-- 🖨️ **[SOND 3D Portfolio](#)** – Showcasing 3D designs and business workflows  
-
----
 
 ## 📊 GitHub Stats
 
@@ -98,29 +74,11 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 
 ---
 
+
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/aryan-bhanot-609650245)  
-📧 aryanbhanot2005@gmail.com
+📧 Email: [aryanbhanot2005@gmail.com](mailto:aryanbhanot2005@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/aryan-bhanot-609650245](https://www.linkedin.com/in/aryan-bhanot-609650245)  
+🌱 Currently seeking: Part-time or freelance roles in front-end, API development, or QA
 
 ---
-
-> 💡 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-
-
-
-<!--
-**aryanbhanot05/aryanbhanot05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
