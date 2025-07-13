@@ -6,13 +6,19 @@
 [![Static Badge](https://img.shields.io/badge/LinkedIn-Aryan%20Bhanot-%230A66C2?style=for-the-badge&logo=linkedin) ](https://www.linkedin.com/in/aryan-bhanot-609650245)
 [![Static Badge](https://img.shields.io/badge/Email-aryanbhanot2005@gmail.com-%23D14836?style=for-the-badge&logo=gmail)](mailto:aryanbhanot2005@gmail.com)
 
+  
+- 🧠 Currently learning: **React, TypeScript, Node.js, and C#**
+- 🧑‍🔧 Founder of **SOND 3D** – a startup specializing in 3D printing and prototyping
+- 🤝 I’m open to collaborating on open-source or freelance tech projects
+- 📫 Reach me at: **aryanbhanot2005@gmail.com**
+
 ---
 
 ## 👨‍💻 About Me
 
 I’m a Software Development student at **Southern Alberta Institute of Technology (SAIT)** with a growing passion for solving real-world problems through code. I enjoy exploring web development, API integration, UI/UX design, and automation.
 
-I also run **SOND 3D**, a startup offering 3D printing, design, and consulting services in Calgary — where tech meets creativity.
+I also a part of **SOND 3D**, a startup offering 3D printing, design, and consulting services in Calgary — where tech meets creativity.
 
 - 🎓 Studying: UX, Databases, Networking, Java, C#, and Web Development  
 - 🖨️ Founder @ SOND 3D  
@@ -74,15 +80,7 @@ I also run **SOND 3D**, a startup offering 3D printing, design, and consulting s
 
 ---
 
-## 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing a **Diploma in Software Development** at **Southern Alberta Institute of Technology (SAIT)**  
-- 🧠 Currently learning: **React, TypeScript, Node.js, and C#**
-- 🧑‍🔧 Founder of **SOND 3D** – a startup specializing in 3D printing and prototyping
-- 🤝 I’m open to collaborating on open-source or freelance tech projects
-- 📫 Reach me at: **aryanbhanot2005@gmail.com**
-
----
 
 ## 🛠️ Tech Stack
 
