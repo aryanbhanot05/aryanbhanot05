@@ -58,10 +58,11 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 
 | Project | Description | Link |
 |--------|-------------|------|
+| 🎵 **Tune Space** | A music player app built with modern web technologies, allowing users to discover, play, and manage their favorite tracks and playlists. | [Tune Space] (https://github.com/aryanbhanot05/Tune_Space) |
+| 🌍 **Remote Job Locator** | An application designed to help users find and filter remote job opportunities across various platforms and companies. | [Remote Job Locator] (https://github.com/aryanbhanot05/remote_job_locator) |
 | 🎬 **Netflix Login Page Clone** | A responsive and visually accurate replica of Netflix’s login page, created to practice layout, styling, and design replication. | [Netflix Clone](https://github.com/aryanbhanot05/Netflix_Clone) |
 | 🛒 **Amazon Home Page Clone** | A pixel-perfect clone of Amazon’s homepage, focusing on layout structure, banner design, and product listings. | [Amazon Clone](https://github.com/aryanbhanot05/Amazon_Clone) |
-| 🎨 **FEC Website - Color Palette Demo** | Designed a clean and accessible UI demo showcasing branding, color themes, and layout structure for the FEC website, a venture by Tartigrade Ltd. | [FEC Demo Website](https://github.com/aryanbhanot05/fec_website_demo_by_aryan_bhanot) |
-| 👨‍💼 **Employee Management System** | A basic CRUD application to add, view, and manage employee data. Useful for practicing object-oriented programming and data management. | [EMS](https://github.com/aryanbhanot05/Employee_Manager) |
+
 
 ---
 
