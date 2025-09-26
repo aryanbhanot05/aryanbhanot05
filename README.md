@@ -14,7 +14,6 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 
 - 🧠 Currently learning: **React**, **TypeScript**, **Node.js**, **Next.js**, **Expo / Expo Router**, **Supabase** and **Cloud Deployment**
 - 🧑‍🔧 Manager of Operations @ **SOND 3D**
-- 🖥️ Web Developer @ **FEC - Collective Energy Foundation** (a venture of **TTG - Tartigrade Ltd.**)  
 - 💡 Building tools using public APIs and automation 
 - 🤝 I’m open to collaborating on open-source or freelance tech projects 
 
