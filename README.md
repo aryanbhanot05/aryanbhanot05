@@ -28,7 +28,8 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 ---
 
 ### ⚙️ Frameworks & Libraries
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=50px alt="React" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=50px alt="Node.js" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=50px alt="Bootstrap" title="Bootstrap"/> <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width=50px alt=".NET MAUI" title=".NET MAUI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=50px alt="Tailwind CSS" title="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=50px alt="React" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=50px alt="Node.js" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=50px alt="Bootstrap" title="Bootstrap"/> <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width=50px alt=".NET MAUI" title=".NET MAUI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=50px alt="Tailwind CSS" title="Tailwind CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width=50px alt="Vite" title="Vite"/>
+
 
 ---
 
