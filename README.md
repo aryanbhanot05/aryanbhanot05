@@ -58,6 +58,7 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 
 | Project | Description | Link |
 |--------|-------------|------|
+| 🌐 **SOND 3D Website** | The official corporate website for SOND 3D, designed and developed using **React, Vite, and Tailwind CSS** to showcase services and a contact portal. | [SOND 3D Website Link](https://sond3d.vercel.app/) |
 | 🎵 **Tune Space** | A music player app built with modern web technologies, allowing users to discover, play, and manage their favorite tracks and playlists. | [Tune Space](https://github.com/aryanbhanot05/Tune_Space) |
 | 🌍 **Remote Job Locator** | An application designed to help users find and filter remote job opportunities across various platforms and companies. | [Remote Job Locator](https://github.com/aryanbhanot05/remote_job_locator) |
 | 🎬 **Netflix Login Page Clone** | A responsive and visually accurate replica of Netflix’s login page, created to practice layout, styling, and design replication. | [Netflix Clone](https://github.com/aryanbhanot05/Netflix_Clone) |
@@ -71,7 +72,6 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 
 - 🚦 Building a **Real-Time Road Condition Dashboard** for travellers using the 511 Alberta API  
 - 💻 Redesigning the official website for the **FEC - Collective Energy Foundation**
-- 🌐 Designing and developing the official website for **SOND 3D**, a company specializing in advanced 3D modeling and visualization.
 - 🤖 Building an **AI-powered Machine Vision Project** to create an app integration machine that automates and streamlines complex visual tasks.
 - 📱 Creating Music Player App using **React Native** and **Expo Router** with Face Gestures Detecting and Mood based music recommending features
 
