@@ -58,6 +58,8 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 
 | Project | Description | Link |
 |--------|-------------|------|
+| ⚡ Foundation of Energy Collective (FEC) Website | Designed and developed a full-scale, production-ready website for the Foundation of Energy Collective (FEC) — a sustainability organization focused on renewable energy innovation. Built with React, Vite, and Tailwind CSS, featuring modular architecture, SEO optimization, and accessibility-first design. | [FEC Website](https://github.com/aryanbhanot05/FEC_Official) |
+| 👁️ Vision – Machine Vision Branding | Developed an interactive one-page branding website for an AI-based machine vision app that detects and describes real-world objects in real time. Crafted with React, TailwindCSS, and Framer Motion, featuring sleek animations, responsive layouts, and a futuristic blue theme reflecting innovation and cutting-edge design. | [Branding Repo](https://github.com/aryanbhanot05/branding_machine_vision) |
 | 🌐 **SOND 3D Website** | The official corporate website for SOND 3D, designed and developed using **React, Vite, and Tailwind CSS** to showcase services and a contact portal. | [SOND 3D Website Link](https://sond3d.vercel.app/) |
 | 🎵 **Tune Space** | A music player app built with modern web technologies, allowing users to discover, play, and manage their favorite tracks and playlists. | [Tune Space](https://github.com/aryanbhanot05/Tune_Space) |
 | 🌍 **Remote Job Locator** | An application designed to help users find and filter remote job opportunities across various platforms and companies. | [Remote Job Locator](https://github.com/aryanbhanot05/remote_job_locator) |
@@ -71,9 +73,9 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 ## 🗺️Active & Future Project Initiatives
 
 - 🚦 Building a **Real-Time Road Condition Dashboard** for travellers using the 511 Alberta API  
-- 💻 Redesigning the official website for the **FEC - Collective Energy Foundation**
 - 🤖 Building an **AI-powered Machine Vision Project** to create an app integration machine that automates and streamlines complex visual tasks.
-- 📱 Creating Music Player App using **React Native** and **Expo Router** with Face Gestures Detecting and Mood based music recommending features
+- 📈 Developing a Personal Productivity Tracker with AI Guidance: A web app that lets users log tasks, set productivity goals, and receive personalized reminders or helpful nudges via WhatsApp or SMS at custom intervals. It actively analyzes your self-reported data, sends productivity prompts, and allows users to connect with friends for sending and receiving collaborative task requests within the platform.​
+- 🛡️ Creating a Cloud-Based AI Cybersecurity Dashboard: This project combines real-time threat analytics with LLM-based automated incident response, enabling users (or small businesses) to visualize vulnerabilities, set up alerts, and receive AI-powered mitigation advice — a highly in-demand solution in today’s hiring market focused on cybersecurity and AI integration.
 
 ---
 
@@ -82,7 +84,8 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 
 📧 Email: [aryanbhanot2005@gmail.com](mailto:aryanbhanot2005@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/aryan-bhanot-609650245](https://www.linkedin.com/in/aryan-bhanot-609650245)  
-🌱 Currently seeking: Part-time or freelance roles in front-end, API development, or QA
+🌐 Portfolio: [Aryan Bhanot](https://www.linkedin.com/in/aryan-bhanot-609650245)
+🌱 Currently seeking full-time or freelance opportunities in front-end development, API integration, and QA testing — passionate about creating sleek, scalable, and reliable digital experiences.
 
 ---
 
