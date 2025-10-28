@@ -12,8 +12,8 @@ I’m a **Software Development** student at **Southern Alberta Institute of Tech
 
 I also a part of **SOND 3D**, a startup offering 3D printing, design, and consulting services in Calgary — where tech meets creativity.
 
-- 🧠 Currently learning: **React**, **TypeScript**, **Node.js**, **Next.js**, **Expo / Expo Router**, **Supabase** and **Cloud Deployment**
-- 🧑‍🔧 Manager of Operations @ **SOND 3D**
+- 🧠 Currently learning: **Node.js**, **Next.js**, **Cloud Deployment (Vercel & AWS)**, **Python** (AI/ML & data), **FastAPI**, **Rust**, **Kotlin**, **Vue.js**, and **Django**, **Docker**, **Go**, **GraphQL**, **Redis**, and **Serverless Architectures**
+- 🧑‍🔧 Manager of Operations @ **SOND 3D** and Full Stack Developer @ **Tartigrade Ltd**
 - 💡 Building tools using public APIs and automation 
 - 🤝 I’m open to collaborating on open-source or freelance tech projects 
 
@@ -23,18 +23,18 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50px alt="Python" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=50px alt="Java" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50px alt="JavaScript" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=50px alt="TypeScript" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width=50px alt="PowerShell" title="PowerShell"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=50px alt="C#" title="C#"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=50px alt="C" title="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=50px alt="HTML5" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=50px alt="CSS3" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50px alt="Python" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=50px alt="Java" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50px alt="JavaScript" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=50px alt="TypeScript" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width=50px alt="PowerShell" title="PowerShell"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=50px alt="C#" title="C#"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=50px alt="C" title="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=50px alt="HTML5" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=50px alt="CSS3" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=50px alt="Rust" title="Rust"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width=50px alt="Kotlin" title="Kotlin"/>
 
 ---
 
 ### ⚙️ Frameworks & Libraries
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=50px alt="React" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=50px alt="Node.js" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=50px alt="Bootstrap" title="Bootstrap"/> <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width=50px alt=".NET MAUI" title=".NET MAUI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=50px alt="Tailwind CSS" title="Tailwind CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width=50px alt="Vite" title="Vite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=50px alt="React" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=50px alt="Node.js" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=50px alt="Bootstrap" title="Bootstrap"/> <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width=50px alt=".NET MAUI" title=".NET MAUI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=50px alt="Tailwind CSS" title="Tailwind CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width=50px alt="Vite" title="Vite"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width=50px alt="FastAPI" title="FastAPI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width=50px alt="Django" title="Django"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width=50px alt="Vue.js" title="Vue.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width=50px alt="GraphQL" title="GraphQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width=50px alt="Redis" title="Redis"/>
 
 
 ---
 
 ### ☁️ DevOps & Cloud
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width=50px alt="Firebase" title="Firebase"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-plain.svg" width="50px" alt="Supabase" title="Supabase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width=50px alt="Firebase" title="Firebase"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-plain.svg" width="50px" alt="Supabase" title="Supabase"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aws/aws-original.svg" width=50px alt="AWS" title="AWS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=50px alt="Docker" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/serverless/serverless-original.svg" width=50px alt="Serverless" title="Serverless"/>
 
 ---
 
@@ -85,16 +85,15 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 📧 Email: [aryanbhanot2005@gmail.com](mailto:aryanbhanot2005@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/aryan-bhanot-609650245](https://www.linkedin.com/in/aryan-bhanot-609650245)  
 🌐 Portfolio: [Aryan Bhanot](https://www.linkedin.com/in/aryan-bhanot-609650245)
-🌱 Currently seeking full-time or freelance opportunities in front-end development, API integration, and QA testing — passionate about creating sleek, scalable, and reliable digital experiences.
+
+🌱 Currently seeking full-time or freelance opportunities in front-end development, API integration, and QA testing and passionate about creating sleek, scalable, and reliable digital experiences.
 
 ---
 
 ## 📊 My Development Stats
 
 [![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanbhanot05&show_icons=true&theme=radical)](https://github.com/aryanbhanot05) [![GitHub Streak](https://streak-stats.demolab.com?user=aryanbhanot05&theme=radical&border_radius=6)](https://github.com/aryanbhanot05)
-
 ![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanbhanot05&bg_color=0d1117&color=1DB954&line=ffcc00&point=ffffff&area=true&hide_border=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhanot05&layout=compact)](https://github.com/aryanbhanot05) 
 
 ---
