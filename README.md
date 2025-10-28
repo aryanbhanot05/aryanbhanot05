@@ -34,7 +34,8 @@ I also a part of **SOND 3D**, a startup offering 3D printing, design, and consul
 ---
 
 ### ☁️ DevOps & Cloud
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width=50px alt="Firebase" title="Firebase"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-plain.svg" width="50px" alt="Supabase" title="Supabase"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aws/aws-original.svg" width=50px alt="AWS" title="AWS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=50px alt="Docker" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/serverless/serverless-original.svg" width=50px alt="Serverless" title="Serverless"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width=50px alt="Firebase" title="Firebase"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-plain.svg" width="50px" alt="Supabase" title="Supabase"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=50px alt="Docker" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width=50px alt="Azure" title="Azure"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=50px alt="AWS" title="AWS"/>
+
 
 ---
 
